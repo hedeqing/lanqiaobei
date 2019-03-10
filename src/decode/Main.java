@@ -16,13 +16,13 @@ public class Main {
             //将数组解析成二进制字符串 二进制的每四位的结果就是16进制的数字对应，
             String strBinary = toBinary(sts[i]);
             int len_strBin = strBinary.length();
-            System.out.println(strBinary+" ");
+            //System.out.println("二进制:"+strBinary+" ");
             //获取二进制字符串长度后需要匹配成8进制数的对应的二进制长度，倍数为3长度，所以需要在前面补充00
             if(len_strBin%3==1) strBinary = "00" + strBinary;
             if(len_strBin%3==2) strBinary = "0" + strBinary;
-            System.out.println(strBinary+" ");
+            System.out.println("二进制为"+strBinary+" ");
             String strOctal = toOctal(strBinary);
-            System.out.println(strOctal);
+            System.out.println("八进制位："+strOctal);
         }
 
     }
@@ -112,7 +112,7 @@ public class Main {
 //        // toBinaryString(i)  //返回i的二进制的字符串表示
 //        // toOctalString(i)  //返回i的八进制的字符串表示
 //        // toHexString(i)  //返回i的十六进制的字符串表示
-//        //toString(i, 10)  //返回i的p进制的字符串表示
+//        //toString(i, p)  //返回i的p进制的字符串表示
 //        String b = Long.toOctalString(a);
 //        System.out.println(b);
 //    }
