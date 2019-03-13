@@ -17,6 +17,7 @@ public class Main {
             result*=i;
             while(result%10==0){
                 result=result/10;
+                //遇到后面0时，优先去掉，免除大量运算
             }
             result=result%1000;
             //如果是对10取余（此时result<10）
