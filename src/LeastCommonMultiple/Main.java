@@ -10,11 +10,7 @@ public class Main {
             a[i] = scanner.nextInt();
         }
         scanner.close();
-
-
         int max = getMax(a);
-
-
         for (int j = max; ; j++) {
             boolean b = true;
             for (int i = 0; i < 3; i++) {

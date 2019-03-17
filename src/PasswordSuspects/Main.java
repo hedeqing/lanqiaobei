@@ -33,7 +33,6 @@ public class Main {
             }
             return;
         }
-
         for(int i = start;i<end;i++){
             swap(a,start,i);
             fullsort(a,start+1,end,x);
