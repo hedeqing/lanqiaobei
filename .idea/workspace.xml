@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a55b594-cd5e-4d5f-afe4-d6f5ef6b3130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbilityToDeliverParcelsInDdays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbilityToDeliverParcelsInDdays/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atleast1duplicatenumber/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComplementCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComplementCode/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SongsWhoseTotalDurationCanBeDivisibleBy60/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SongsWhoseTotalDurationCanBeDivisibleBy60/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorTicket/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorTicket/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqioabei/CutLattice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqioabei/CutLattice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +19,37 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="486">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ErrorTicket/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ErrorTicket/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -36,27 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="548">
               <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CutLattice/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ComplementCode/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -137,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Decode16to10/README.md" />
-        <option value="$PROJECT_DIR$/src/Decode16to10/Main.java" />
         <option value="$PROJECT_DIR$/src/Decode10to16/README.md" />
         <option value="$PROJECT_DIR$/src/decode/Main.java" />
         <option value="$PROJECT_DIR$/src/Decode10to16/Main.java" />
@@ -187,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/Atleast1duplicatenumber/README.md" />
         <option value="$PROJECT_DIR$/src/AbilityToDeliverParcelsInDdays/README.md" />
         <option value="$PROJECT_DIR$/src/AbilityToDeliverParcelsInDdays/Main.java" />
+        <option value="$PROJECT_DIR$/src/ErrorTicket/Main.java" />
+        <option value="$PROJECT_DIR$/src/ErrorTicket/README.md" />
         <option value="$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java" />
       </list>
     </option>
@@ -222,19 +224,13 @@
               <item name="lanqioabei" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiaobei" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AbilityToDeliverParcelsInDdays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lanqioabei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiaobei" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Atleast1duplicatenumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lanqioabei" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiaobei" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ComplementCode" type="462c0819:PsiDirectoryNode" />
+              <item name="ErrorTicket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552912218536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552915430693" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaAlgorithm" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -265,13 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CutLattice.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorTicket.Main" />
       <module name="lanqioabei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CutLattice.*" />
+          <option name="PATTERN" value="ErrorTicket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,11 +315,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WithScore.Main" />
+      <option name="MAIN_CLASS_NAME" value="Atleast1duplicatenumber.Main" />
       <module name="lanqioabei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WithScore.*" />
+          <option name="PATTERN" value="Atleast1duplicatenumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,19 +328,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -378,18 +374,18 @@
       <workItem from="1552741029859" duration="3718000" />
       <workItem from="1552785567789" duration="9362000" />
       <workItem from="1552807431102" duration="3774000" />
-      <workItem from="1552911039469" duration="1172000" />
+      <workItem from="1552911039469" duration="4318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81936000" />
+    <option name="totallyTimeSpent" value="85082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32089552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32089552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,12 +394,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.324295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.324295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3362256" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
@@ -749,23 +745,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PrimeFactor/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WithScore/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
-            <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lanqioabei.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1161,10 +1140,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ErrorTicket/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ErrorTicket/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Atleast1duplicatenumber/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="486">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
